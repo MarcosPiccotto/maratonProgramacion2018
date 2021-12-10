@@ -1,0 +1,24 @@
+Python 2.7
+Explicacion de logica del juego
+
+El objetivo del juego es que el player(la mujer en el juego) lleve los virus a las zonas seguras,
+la misma posee diferentes recursos que puede utilizar dentro del juego:
+
+Retroceder en el tiempo: Al no poder mover algun virus o queres hacer de algun otra forma algo,
+podes apretar la tecla 'X' la cual hace que puedas retroceder un momento en el tiempo, no solo vos volves,
+sino tambien los virus, el contador de movimientos y la bateria gastada,
+¿cómo hicimos esto? de una forma sencilla, guardamos todos los movimientos a nivel de cordenadas en un diccionario creamos una funcion que guarda todo en el diccionario,
+los movimientos del player, si movio algun virus, la energia, etc.
+Despues cuando se presiona x cambiamos todas las posiciones a la anterior que este en el diccionario y borramos la posicion donde estaba el player.
+
+Replay: Esta fue una mecanica que se nos ocurrio a nostros la cual tiene una funcionalidad pareciada a la del retroceder en el tiempo,
+para ella creamos otro diccionario donde se guarda absolutamente todo,
+luego tomamos las listas con las coordenadas y le hacemos un reverse para empezar desde adelante hacia atras y la recorremos en una funcion de forma recursiva
+para que se ejecute sola
+
+Añadidos esteticos: Tambien hicimos cambios al fondo del menu al igual que la tipografia de las palabras tando en el menu como en el juego,
+añadimos sonidos cuando el jugador presiona un boton en el menu, añadimos sonidos cuando el player se mueve,
+añadimos un menu donde se pueden ver los puntajes de los jugadores anteriores.
+
+Reiniciar nivel: Cuando ya estes muy trabado que no puedas continuar aun con el retorceder tener la opcion de reiniciar el nivel presionando 'R',
+para esto creamos varias funciones para resetear el tiempo, movimientos, energia y el juego en si para que todo vuelva a estar como en el comienzo.

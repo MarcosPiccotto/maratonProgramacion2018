@@ -1,0 +1,16 @@
+juan puntos: 1386
+tomas puntos: 838
+pepe puntos: 257
+lucas puntos: 6930 bateria: 6930 tiempo transcurrido 1
+javier2 puntos: 630 bateria: 6930 tiempo transcurrido 11
+marcos puntos: 913 bateria: 6395 tiempo transcurrido 7
+marcos puntos: 865 bateria: 6055 tiempo transcurrido 7
+marcos puntos: 865 bateria: 6055 tiempo transcurrido 7
+lucas puntos: 745 bateria: 5965 tiempo transcurrido 8
+marcos puntos: 758 bateria: 6065 tiempo transcurrido 8
+marcos puntos: 1065 bateria: 6395 tiempo transcurrido 6
+ martin puntos: 1069 bateria: 6415 tiempo transcurrido 6
+lucas puntos: 1283 bateria: 6415 tiempo transcurrido 5
+nandowey puntos: 1213 bateria: 6065 tiempo transcurrido 5
+kevinelwachin puntos: 920 bateria: 6445 tiempo transcurrido 7
+luciano puntos: 639 bateria: 6395 tiempo transcurrido 10
